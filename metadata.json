@@ -1,0 +1,6 @@
+{
+  "name": "Amritva Artisanal Foods",
+  "description": "Premium handcrafted packaged snacks, slow-roasted namkeen, artisanal cookies, and festive gift boxes with direct WhatsApp order fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
